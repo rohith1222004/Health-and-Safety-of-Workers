@@ -26,7 +26,7 @@ export default function Demo() {
             <h2 className="text-lg font-medium">Location Tracking</h2>
           </div>
           <p className="text-sm text-muted-foreground">
-            Continuously track the worker's location and display it on a map.
+            Continuously track the worker&apos;s location and display it on a map.
           </p>
           <div className="flex-1">
             <img src="/placeholder.svg" alt="Map" className="w-full h-full object-cover rounded-md" />

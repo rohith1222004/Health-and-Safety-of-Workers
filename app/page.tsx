@@ -65,7 +65,7 @@ export default function page() {
             <h2 className="text-lg font-medium">Location Tracking</h2>
           </div>
           <p className="text-sm text-muted-foreground">
-            Continuously track the worker's location.
+            Continuously track the worker&apos;s location.
           </p>
 
           <div className="flex-1">
@@ -411,7 +411,7 @@ export default function page() {
   )
 }
 
-function CircleAlertIcon(props) {
+function CircleAlertIcon(props: any) {
   return (
     <svg
       {...props}
@@ -433,7 +433,7 @@ function CircleAlertIcon(props) {
 }
 
 
-function InfoIcon(props) {
+function InfoIcon(props : any) {
   return (
     <svg
       {...props}
@@ -455,7 +455,7 @@ function InfoIcon(props) {
 }
 
 
-function MapPinIcon(props) {
+function MapPinIcon(props : any) {
   return (
     <svg
       {...props}
@@ -476,7 +476,7 @@ function MapPinIcon(props) {
 }
 
 
-function MenuIcon(props) {
+function MenuIcon(props : any) {
   return (
     <svg
       {...props}
@@ -498,7 +498,7 @@ function MenuIcon(props) {
 }
 
 
-function RadarIcon(props) {
+function RadarIcon(props : any) {
   return (
     <svg
       {...props}
@@ -525,7 +525,7 @@ function RadarIcon(props) {
 }
 
 
-function SettingsIcon(props) {
+function SettingsIcon(props : any) {
   return (
     <svg
       {...props}
@@ -546,7 +546,7 @@ function SettingsIcon(props) {
 }
 
 
-function ShieldIcon(props) {
+function ShieldIcon(props : any) {
   return (
     <svg
       {...props}
@@ -566,7 +566,7 @@ function ShieldIcon(props) {
 }
 
 
-function SignalIcon(props) {
+function SignalIcon(props : any) {
   return (
     <svg
       {...props}
@@ -590,7 +590,7 @@ function SignalIcon(props) {
 }
 
 
-function ThermometerIcon(props) {
+function ThermometerIcon(props : any) {
   return (
     <svg
       {...props}
@@ -610,7 +610,7 @@ function ThermometerIcon(props) {
 }
 
 
-function TriangleAlertIcon(props) {
+function TriangleAlertIcon(props : any) {
   return (
     <svg
       {...props}
@@ -632,7 +632,7 @@ function TriangleAlertIcon(props) {
 }
 
 
-function XIcon(props) {
+function XIcon(props : any) {
   return (
     <svg
       {...props}
